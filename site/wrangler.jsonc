@@ -1,0 +1,16 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "nix-docs",
+	"compatibility_date": "2026-08-08",
+	"assets": {
+		"directory": "./dist"
+	},
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true,
+	"compatibility_flags": [
+		"nodejs_compat"
+	]
+	// "vars": {  "MY_VARIABLE": "production_value" }
+}
