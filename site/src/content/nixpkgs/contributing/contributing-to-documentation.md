@@ -1,0 +1,5 @@
+---
+title: Contributing to Nixpkgs documentation
+---
+
+This section has been moved to [doc/README.md](https://github.com/NixOS/nixpkgs/blob/master/doc/README.md).

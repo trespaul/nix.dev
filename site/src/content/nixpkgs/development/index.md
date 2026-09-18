@@ -1,0 +1,13 @@
+---
+title: Development of Nixpkgs
+---
+
+This section shows you how Nixpkgs is developed and how you can interact with the contributors and the latest updates.
+If you are interested in contributing yourself, see [CONTRIBUTING.md](https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md).
+
+<!-- In the future this section should also include: How to test pull requests, how to know if pull requests are available in channels, etc. -->
+
+```
+chapters
+development/opening-issues.chapter.md
+```
